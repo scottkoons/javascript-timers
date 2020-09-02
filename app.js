@@ -25,6 +25,5 @@ function randomGame() {
     console.log(`you went over .75 and i is: ${i}`);
   }
 }
-
 randomGame();
 // -----------
