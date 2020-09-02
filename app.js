@@ -14,7 +14,6 @@ countDown(4);
 // ------------
 
 //Random Game
-
 let i = 0;
 function randomGame() {
   let num = Math.random();
